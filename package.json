@@ -1,0 +1,25 @@
+{
+  "name": "rocketseat-nodejs-fundamentals",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Rocketseat > Trilha NodeJS > Projeto 1 - Fundamentos de NodeJS",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fausantosdev/rocketseat-nodejs-fundamentals.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "fundamentals"
+  ],
+  "author": "Fau Santos <fausantosdev@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fausantosdev/rocketseat-nodejs-fundamentals/issues"
+  },
+  "homepage": "https://github.com/fausantosdev/rocketseat-nodejs-fundamentals#readme"
+}
